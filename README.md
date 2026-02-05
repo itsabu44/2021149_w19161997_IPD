@@ -1,4 +1,4 @@
-Supermarket Product Demand Forecasting
+Demand Forecasting to optimize inventory in supermarket chain
 
 This project forecasts daily demand for supermarket products using historical sales data. The Prophet time series model was used to predict future sales at product levels.
 

@@ -9,5 +9,5 @@ The project cleans and structures sales and product data, assigns products to ca
 Dataset:
 The full dataset is not included in the public repository due to size limits. Instead, it has been uploaded to Google Drive: "https://drive.google.com/drive/folders/160N9aRHFl056gvkfHhppmQmN2uYXNFIS?usp=sharing" 
 
-Although the dataset consists of seven related files, only Sales, Categories, and Products files need to be downloaded to run the project successfully.
+Although the dataset consists of seven related files, only Sales, Categories, and Products files need to be downloaded to run the project successfully. Save the downloaded files in the same folder as the code to run the notebooks successfully.
 
